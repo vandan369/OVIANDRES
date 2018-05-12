@@ -1,0 +1,56 @@
+body{
+	background: url(img/contactanos.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+color: #083A6F;
+}
+
+#parrafo1{
+
+	text-align: justify;
+	text-justify:auto;
+}
+
+#mipagina{
+	width: 1200px;
+	text-align: center;
+}
+
+#cabecera{
+	height: 180px;
+	background:lightblue;
+
+}
+#navegacion{
+
+	height: 65px;
+	background:black;
+}
+
+#seccion
+{
+	width:900px;
+	background: ;
+	float: left;
+
+}
+#columna {
+
+	width: 300px;
+	background: gray;
+	float: right;
+}
+
+	#pie
+
+	{
+		background: black;
+		float: right;
+		clear: both;
+		position: right;
+
+	}
+
+}
+
